@@ -22,7 +22,7 @@ section p{
         font-size: 42px;
     }
 }
-@media screen and (max-width: 572px ){
+@media screen and (max-width: 767px ){
     nav{
         background-color: #dec0de;
     }
