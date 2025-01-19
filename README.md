@@ -1,1 +1,1 @@
-This is a Simple Project for "The Web Developer Bootcamp", with the goal of developing a simple page using Bootstrap.
+This project was developed in "The Web Developer Bootcamp", a landing page using Bootstrap for learn more about CSS frameworks.
